@@ -1,3 +1,10 @@
+if (window.location.hostname === 'sketch.zarnab.dev') {
+ const link = document.querySelector('.cluster-return:not(.community-link)');
+ if (link) {
+  link.href = 'https://zarnab.dev/';
+  link.innerHTML = '<span aria-hidden="true">←</span> zarnab.dev';
+ }
+}
 const place = () => {
  const target = document.querySelector(".page");
  if(!target || target.querySelector('shin86-signature')) return;

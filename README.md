@@ -6,7 +6,7 @@ Draw a line and explore the rotating components that reconstruct it. This local 
 
 ## Use
 
-Keep a visible lowercase return link to `https://shin86.dev/` in the page header.
+Keep a visible lowercase return link in the page header: `https://zarnab.dev/` on `sketch.zarnab.dev`, and `https://shin86.dev/` on the existing art hosts.
 The link returns to the cluster hub. The wordmark returns to this instrument.
 Use the paper and ink palette for control feedback. Keep keyboard focus visible.
 
